@@ -9,7 +9,7 @@
 
 <h2 align="left">A passionate Business Analyst from India. I have completed my B-Tech from Computer Science And Engineering.</h2>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ###
 
 <p align="left">✨ Creating Dashboard by using Advance-Excel and many other tools.<br>📚 I' Always have a learning mentality ...<br>🎯 Improve Business Processes, Drive Business Growth, Enhance Decision Making, and Continuously Improve Skills , etc..<br>🎲 Sleuths of the Business World, Swiss Army Knife, Storytellers with Data, Change Agents, Linguists, Curious Minds, Communicators, Strategic Thinkers and Lifelong Learners.</p>
